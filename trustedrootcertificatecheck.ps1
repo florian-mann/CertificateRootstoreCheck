@@ -36,6 +36,9 @@ $SkriptVersion = "0.3 vom 04.09.2020"
 
 
 .Changelog:
+     0.3
+       - Kleinere Verbesserungen
+       - Probleme mit Codierung behoben
      0.2
        - GUI erstellt
      0.1
